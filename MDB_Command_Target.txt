@@ -1,0 +1,5 @@
+Device ATSAML21J18B
+Hwtool edbg <sn>ATML2241040200002638
+Sleep 1000 
+Program C:/EDrive/VSCODE/MDB/MDB_SAML21.X.production.hex
+Quit

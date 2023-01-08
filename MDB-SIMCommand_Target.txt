@@ -1,0 +1,5 @@
+Device ATSAML21J18B 
+#Hwtool edbg 0
+Hwtool edbg <sn>ATML2241040200002638
+Program C:\Users\I67452\MPLABXProjects\group\MDB_SAML21.X\dist\default\production\MDB_SAML21.X.production.hex
+Quit
